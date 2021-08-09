@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2021 Bayerische Motoren Werke Aktiengesellschaft (BMW AG)
+#
+# SPDX-License-Identifier: MIT
+
+[run]
+branch = True
+omit =
+    */tests/*
+    */venv/*
+
+[report]
+#fail_under = 80

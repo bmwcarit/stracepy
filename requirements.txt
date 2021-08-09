@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: 2021 Bayerische Motoren Werke Aktiengesellschaft (BMW AG)
+#
+# SPDX-License-Identifier: MIT
+
+pandas
+tabulate
+colorlog
+reuse
+pytest
+pytest-cov
+pycodestyle
+pylint
+black

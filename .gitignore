@@ -1,0 +1,15 @@
+# SPDX-FileCopyrightText: 2021 Bayerische Motoren Werke Aktiengesellschaft (BMW AG)
+#
+# SPDX-License-Identifier: MIT
+
+scripts/strace-build/
+scripts/strace-bin/
+temp/
+env/
+venv/
+.build/
+**/.vscode
+__pycache__/
+*.py[cod]
+*.csv
+*.log

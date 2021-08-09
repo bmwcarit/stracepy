@@ -1,0 +1,1 @@
+execve("/usr/bin/firefox", ["firefox"], 0x7ffeaefc4d68 /* 84 vars */) = 0
